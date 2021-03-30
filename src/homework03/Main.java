@@ -2,7 +2,6 @@ package homework03;
 
 import java.util.Random;
 import java.util.Scanner;
-
 public class Main {
     //Задание 1
     private static void Random() {
